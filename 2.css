@@ -1,0 +1,50 @@
+
+button {
+    background-color: #63410C;
+    border: none;
+    color: #FFFFFF;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-table;
+    font-size: 16px;
+    font-family: cursive;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+h1 {
+	font-size: 20px;
+	font-family: Courier;
+}
+
+center {
+	font-size: 26px;
+}
+
+h2 {
+	font-size: 35px;
+	font-family: Courier;
+}
+
+h3 {
+	font-size: 25px;
+	font-family: consolas;
+}
+
+h4 {
+	font-size: 16px;
+	font-family: courier;
+}
+
+h5 {
+	color: #ffdc9e;
+	font-size: 20px;
+	font-family: consolas;
+}
+
+h6 {
+	color: #c6ddff;
+	font-size: 14px;
+	font-family: Courier;
+}
